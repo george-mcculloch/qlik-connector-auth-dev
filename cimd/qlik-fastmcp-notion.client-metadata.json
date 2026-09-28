@@ -1,0 +1,9 @@
+{
+  "client_id": "https://george-mcculloch.github.io/qlik-connector-auth-dev/cimd/qlik-fastmcp-notion.client-metadata.json",
+  "client_name": "Qlik FastMCP Notion Connector",
+  "redirect_uris": ["https://connector.qlik.com/auth/oauth/v3.htm"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "default"
+}
